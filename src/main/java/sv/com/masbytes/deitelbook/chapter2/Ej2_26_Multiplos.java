@@ -75,7 +75,7 @@ public class Ej2_26_Multiplos {
         if(segundoNumero !=0){
             return primerNumero % segundoNumero == 0;
         } else {
-            System.out.println(INVALID_NUMBER_ZERO);
+            System.out.println(ERROR_ZERO_INPUT);
             return false;
         }        
     }
