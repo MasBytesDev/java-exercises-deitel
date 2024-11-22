@@ -54,6 +54,16 @@ Puedes adquirir el libro en tu librería de confianza o a través de plataformas
 
 ---
 
+## 📄 Licencia
+
+Este repositorio contiene soluciones a los ejercicios del libro **"Cómo programar en Java"** de Paul y Harvey Deitel. Las soluciones son de **mi autoría** en cuanto a la implementación del código, pero los enunciados de los ejercicios pertenecen a los autores del libro.
+
+Este proyecto está bajo la licencia **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**, lo que significa que puedes usar, compartir y modificar las soluciones para fines **no comerciales**, siempre que atribuyas correctamente el trabajo original y compartas cualquier derivado bajo la misma licencia.
+
+> **Nota:** Los enunciados de los ejercicios son propiedad de Paul y Harvey Deitel, y se recomienda consultar el libro para obtener la información completa.
+
+---
+
 ## 🤝 Contribución y uso
 
 Este repositorio es de acceso público y puedes usar las soluciones como guía para tu aprendizaje personal. Sin embargo, si tienes sugerencias de mejora o encuentras errores, no dudes en abrir un **issue** o enviar un **pull request**.
