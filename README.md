@@ -24,6 +24,14 @@ Las soluciones a los ejercicios reflejan el análisis lógico y técnico del aut
 
 ---
 
+## Actualizaciones Diarias
+
+Este repositorio se actualizará de manera continua, subiendo nuevos ejercicios resueltos día a día. Se recomienda visitar el repositorio regularmente para ver las actualizaciones y estar al tanto de los nuevos ejercicios que se vayan subiendo.
+
+¡No dudes en revisar frecuentemente para seguir aprendiendo y mejorando tus habilidades con Java!
+
+---
+
 ## 💻 Herramientas utilizadas
 
 El desarrollo de los ejercicios se realiza utilizando las siguientes herramientas y configuraciones:
