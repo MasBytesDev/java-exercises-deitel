@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package sv.com.masbytes.deitelbook.chapter1;
+package sv.com.masbytes.deitelbook.chapter2;
 
 /*
 Escriba una aplicación que pida al usuario que escriba dos números, que obtenga los números 
